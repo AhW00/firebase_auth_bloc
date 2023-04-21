@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "14814294333",
+    "project_id": "firebase-auth-cubit-bloc",
+    "storage_bucket": "firebase-auth-cubit-bloc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14814294333:android:17fadabbb1759be1b35554",
+        "android_client_info": {
+          "package_name": "com.example.firebase_auth_bloc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "14814294333-qkddggdi62r915hfpv36q50o98ahi2c8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8EW50D7r_R8Dvlc-KP_fODMPvG3UVYvY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "14814294333-qkddggdi62r915hfpv36q50o98ahi2c8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
